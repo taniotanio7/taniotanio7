@@ -5,10 +5,6 @@
 
 - 📫 You can reach me at **jonatanwitoszek@hey.com**
 
-- 📄 Know about my experiences [cv.witoszek.dev](cv.witoszek.dev)
+⚠️ **PLEASE don't write to me about issues / support / new features for repositories I maintain or contribute to. Use GitHub discussions or issues**
 
-<h3 align="left">Social media:</h3>
-<p align="left">
-<a href="https://twitter.com/witoszekdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="witoszekdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/jonatanwitoszek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jonatanwitoszek/" height="30" width="40" /></a>
-</p>
+- 📄 Know about my experiences [cv.witoszek.dev](cv.witoszek.dev)
