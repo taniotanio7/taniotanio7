@@ -8,4 +8,4 @@
 
 ⚠️ **PLEASE don't write to me about issues / support / new features for repositories I maintain or contribute to. Use GitHub discussions or issues**
 
-- 📄 Know about my experiences [cv.witoszek.dev](cv.witoszek.dev)
+- 📄 Know about my experiences [cv.witoszek.dev](https://cv.witoszek.dev)
